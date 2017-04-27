@@ -1,0 +1,12 @@
+{
+  "name": "less-vars2js",
+  "version": "0.1.0",
+  "description": "LESS variables to a javascript object",
+  "main": "index.js",
+  "repository": "https://github.com/valleykid/less-vars2js.git",
+  "author": "valleykid <valleykiddy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less-vars-to-js": "^1.1.2"
+  }
+}

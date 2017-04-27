@@ -1,0 +1,19 @@
+@import (reference) "theme";
+
+// Colour palette
+@blue: #0d3880;
+@pink: #e60278;
+
+// Elements
+@background: @gray;
+@favourite: blanchedalmond;
+
+// Grid
+@row-height: 9;
+
+.element {
+  @foreground: black;
+  color: @foreground;
+}
+
+@abc: @blue;
